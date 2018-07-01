@@ -96,6 +96,8 @@ export class GoogleAutoComplete extends React.PureComponent<P, S> {
      * results in the selected language may be given a higher ranking.
      */
     language: PropTypes.string,
+
+    queryTypes: PropTypes.string,
     /**
      * A grouping of places to which you would like to restrict your results
      */
