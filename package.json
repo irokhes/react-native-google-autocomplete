@@ -1,9 +1,9 @@
 {
   "name": "react-native-google-autocomplete",
-  "version": "0.1.3",
+  "version": "0.0.1",
   "author": {
-    "email": "quimperemanuel@gmail.com",
-    "name": "Emanuel Quimper <EQuimper>"
+    "email": "jorgereyero@gmail.com",
+    "name": "Jorge Reyero <irokhes>"
   },
   "main": "dist/GoogleAutoComplete.js",
   "module": "dist/GoogleAutoComplete.es6.js",
