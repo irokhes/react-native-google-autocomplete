@@ -15,7 +15,7 @@ Using render props to make google autocomplete work nicely with any design.
 | apiKey  | Your api key get from https://developers.google.com/places/documentation  |
 | debounce  | optional - default 300
 | language | optional - default en |
-| queryTypes | optional - default address - https://developers.google.com/places/web-service/autocomplete#place_types
+| queryTypes | optional - default (cities) - https://developers.google.com/places/web-service/autocomplete#place_types
 | minLength | optional - default 2 - this is the min length of the term search before start
 | components | optional - A grouping of places to which you would like to restrict your results.
 | radius | optional - The distance (in meters) within which to return place results.
