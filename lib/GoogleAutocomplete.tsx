@@ -30,9 +30,9 @@ const defaultProps: DefaultProps = {
   language: 'en',
 
   /**
-   * See https://developers.google.com/places/web-service/autocomplete#place_types = default: address
+   * See https://developers.google.com/places/web-service/autocomplete#place_types = default: (cities)
    */
-  queryTypes: 'address',
+  queryTypes: '(cities)',
 };
 
 export interface DefaultProps {
